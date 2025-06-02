@@ -12,3 +12,5 @@ pip install plotly
 pip install numpy # needed?
 jupyter notebook
 ```
+git remote add origin git@github.com:rebeccapeltz/python_intro.git
+git push -u origin main
